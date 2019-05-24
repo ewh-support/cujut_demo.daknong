@@ -1,103 +1,129 @@
-.homeNewsL .container_mid_main_in1{
-	width:753px;
-	height:174px;
-	overflow:hidden;	
+.homeNewsL .container_mid_main_in1 {
+	width: 753px;
+	height: 174px;
+	overflow: hidden;
 	background: url('http://web.archive.org/web/20140531034014im_/http://cujut.daknong.gov.vn/egovImages/bgSlide1.png') no-repeat left top;
-	margin-top:8px;
+	margin-top: 8px;
 }
-.lv_topnews_mode3_title{
-	text-transform:uppercase;
-	padding:8px 0px 0px 40px;
-	font-weight:bold;
+
+.lv_topnews_mode3_title {
+	text-transform: uppercase;
+	padding: 8px 0px 0px 40px;
+	font-weight: bold;
 }
-.lv_topnews_mode3_title a, .lv_topnews_mode3_title a:link, .lv_topnews_mode3_title a:visited{
-	color:#fff;
+
+.lv_topnews_mode3_title a, .lv_topnews_mode3_title a:link, .lv_topnews_mode3_title a:visited {
+	color: #fff;
 }
-.lv_topnews_mode3_title a:hover{
-	color:#fcd800;
-	text-decoration:none;
+
+.lv_topnews_mode3_title a:hover {
+	color: #fcd800;
+	text-decoration: none;
 }
-.lv_topnews_mode3_ul_li{
-	width:125px;
-	height:138px;
-	overflow:hidden;
+
+.lv_topnews_mode3_ul_li {
+	width: 125px;
+	height: 138px;
+	overflow: hidden;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-container {
 	-moz-border-radius: 10px;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-direction-rtl {
 	direction: rtl;
 }
-.TopNews-jcarousel-skin-tango .jcarousel-container-horizontal {			
-	padding-left:45px;		
+
+.TopNews-jcarousel-skin-tango .jcarousel-container-horizontal {
+	padding-left: 45px;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-clip-horizontal {
 	width: 664px;
-	padding-top:25px;
+	padding-top: 25px;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-item {
-/*	width: 125px;
+	/*	width: 125px;
 	height: 140px;
 	overflow: hidden;*/
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-item-horizontal {
 	margin-left: 0;
 	margin-right: 17px;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
 	margin-left: 10px;
 	margin-right: 0;
 }
+
 .TopNews-jcarousel-skin-tango .jcarousel-item-placeholder {
 	background: #fff;
 	color: #000;
 }
+
 /** *  Horizontal Buttons */
-.jcarousel-next-horizontal, .jcarousel-prev-horizontal{
+
+.jcarousel-next-horizontal, .jcarousel-prev-horizontal {
 	position: absolute;
 	top: 46px;
 	width: 31px;
 	height: 38px;
 	cursor: pointer;
 }
+
 .jcarousel-next-horizontal {
 	right: 7px;
-	background: transparent url(../../../../../20140531034014im_/http%253A/cujut.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+	background: transparent url("") no-repeat right top;
 }
+
 .jcarousel-prev-horizontal {
 	left: 7px;
-	background: transparent url(../../../../../20140531034014im_/http%253A/cujut.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+	background: transparent url("") no-repeat left top;
 }
+
 .jcarousel-next-horizontal:hover {
-	background: transparent url(../../../../../20140531034014im_/http%253A/cujut.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+	background: transparent url("") no-repeat right top;
 }
+
 .jcarousel-prev-horizontal:hover {
-	background: transparent url(../../../../../20140531034014im_/http%253A/cujut.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+	background: transparent url("") no-repeat left top;
 }
+
 /**/
-div.lv_topnews_mode3_ul_li_divTitle{
+
+div.lv_topnews_mode3_ul_li_divTitle {
 	padding-top: 7px;
-	text-align:justify;
+	text-align: justify;
 }
-div.lv_topnews_mode3_ul_li_divTitle a:link, div.lv_topnews_mode3_ul_li_divTitle a:visited{
+
+div.lv_topnews_mode3_ul_li_divTitle a:link, div.lv_topnews_mode3_ul_li_divTitle a:visited {
 	font-size: 11px;
 	color: #282828;
 	cursor: pointer;
 }
+
 div.lv_topnews_mode3_ul_li_divTitle a:hover {
 	text-decoration: none;
-	color:#d00;
+	color: #d00;
 }
+
 .lv_topnews_mode3_ul_li .img-slidemenu {
 	width: 94px;
 	height: 68px;
 }
-.lv_topnews_mode3_ul_li a:hover .img-slidemenu{
+
+.lv_topnews_mode3_ul_li a:hover .img-slidemenu {
 	border: 1px #60bafe solid!important;
 }
-.lv_topnews_mode3_ul_li_divImg{
-	text-align:center
+
+.lv_topnews_mode3_ul_li_divImg {
+	text-align: center
 }
+
 /*
      FILE ARCHIVED ON 03:40:14 May 31, 2014 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 06:21:27 Apr 13, 2019.
@@ -106,6 +132,7 @@ div.lv_topnews_mode3_ul_li_divTitle a:hover {
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
 */
+
 /*
 playback timings (ms):
   LoadShardBlock: 83.177 (3)
