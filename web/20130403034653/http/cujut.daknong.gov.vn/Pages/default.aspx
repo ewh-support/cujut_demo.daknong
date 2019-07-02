@@ -39,7 +39,7 @@ document.write('<script type="text/javascript" src="../../../../../_layouts/blan
 
 
 <link rel="shortcut icon" href="../../../../20130403034653im_/http%253A/cujut.daknong.gov.vn/soGDDTimage/liferay.ico" type="image/vnd.microsoft.icon"/>
-	<script type="text/javascript" src="../../../../20130403034653js_/http%253A/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
 	<script type="text/javascript" src="../../../../20130403034653js_/http%253A/cujut.daknong.gov.vn/SiteAssets/SP2010_RibbonToggler.js"></script>	
 	<style type="text/css">
 	.s4-skipribbonshortcut { display:none; }

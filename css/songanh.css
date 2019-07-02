@@ -1833,7 +1833,7 @@ div#ppy1 .ppy-nav {
 }
 
 .ms-navheader {
-	background: #035e88 url("/img/L-titlemn.png") repeat-x left top;
+	/* background: #035e88 url("/img/L-titlemn.png") repeat-x left top; */
 	color: #fff!important;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -2117,7 +2117,7 @@ table.ds_VBPL {
 }
 
 .div_header_style1 a {
-	background: url("/img/tin-tabL.png") no-repeat left 0px;
+	/* background: url("/img/tin-tabL.png") no-repeat left 0px; */
 	display: block;
 	padding: 4px 14px;
 	color: #b20000!important;
