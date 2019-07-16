@@ -2856,8 +2856,8 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 </span><div class="Footer-Text"><div style="text-align: center;"><span><span><b>®<span style="display: inline-block;"></span></b></span></span><strong> CỔNG THÔNG TIN ĐIỆN TỬ HUYỆN CƯ JÚT - tỉnh ĐĂK NÔNG</strong></div>
 <div style="text-align: center;">Cơ quan chủ quản: Ủy ban nhân dân huyện Cư Jút</div>
 <div style="text-align: center;">Giấy
- phép: số .../GP-TTĐT do Cục Quản lý Phát thanh, Truyền hình và Thông tin
- điện tử - Bộ Thông tin và Truyền thông cấp ngày ../../20..</div>
+ phép: Số 05/GP-TTĐT do Cục Quản lý Phát thanh, Truyền hình và Thông tin
+ điện tử - Bộ Thông tin và Truyền thông cấp ngày 14/10/2014</div>
 <div style="text-align: center;">Chịu trách nhiệm về nội dung: Ông Trương Thanh Tùng - Trưởng Ban biên tập, Phó chủ tịch UBND huyện Cư Jút.</div>
 <div style="text-align: center;"><div>Địa
  chỉ:&#160; thị trấn EaTling, huyện Cư Jút, tỉnh Đăk Nông. Điện thoại: 
