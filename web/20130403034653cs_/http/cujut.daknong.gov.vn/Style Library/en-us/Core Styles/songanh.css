@@ -3224,7 +3224,7 @@ a img {
 
 .div-maquee {
 	padding-top: 8px;
-	background: url("/img/ico-maquee.png") no-repeat left 6px;
+	/* background: url("/img/ico-maquee.png") no-repeat left 6px; */
 	padding-left: 30px;
 }
 
