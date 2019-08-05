@@ -1833,7 +1833,7 @@ div#ppy1 .ppy-nav {
 }
 
 .ms-navheader {
-	/* background: #035e88 url("/img/L-titlemn.png") repeat-x left top; */
+	background: #035e88 url("/img/L-titlemn.png") repeat-x left top;
 	color: #fff!important;
 	font-weight: bold;
 	text-transform: uppercase;
